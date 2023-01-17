@@ -1,3 +1,5 @@
+The project is a work in progress. Discord: https://discord.gg/9pDdrKJy8n
+
 # Animapolator
 
 Animapolator is a system of neural networks to generate 2D animations using interpolation. **This is a work in progress.**
